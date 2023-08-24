@@ -1,4 +1,3 @@
-package com.examly.springapp.models;
 import com.examly.springapp.entity.Taskentity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
